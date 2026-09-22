@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Run a program from the repository root, for example:
 
 ```powershell
-python supervised\logistic_regression_iris.py
+python 20_logistic_regression_iris.py
 ```
 
 ## Contents
